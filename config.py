@@ -1,0 +1,4 @@
+GEMINI_LLM_MODEL = "gemini-2.5-flash-lite"
+GEMINI_EMBEDDING_MODEL = "gemini-embedding-001"
+CHUNK_SIZE = 200
+DEFAULT_N_RESULTS = 2
